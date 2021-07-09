@@ -1,5 +1,5 @@
 # Python_Project
-# A python program I had to make during a course.
+# A python program I made during a course within "itsafe.co.il"
 # This program takes websites and scans them for some attributes, like an encodying type and if the site is redirecting or not
 # You can add / remove websites to / from the database.
 # You can add / remove description to website on the database.
